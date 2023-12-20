@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Izri09
 - 👀 I’m interested in formation 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning stadies 
+- 💞️ I’m looking to collaborate on coaching 
+- 📫 How to reach me thank 
 
 <!---
 Izri09/Izri09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
